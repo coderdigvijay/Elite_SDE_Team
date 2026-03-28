@@ -947,7 +947,7 @@ find .claude/codebase-map/*/flows/ -mtime +90 -delete
 ## 🎯 Still Have Questions?
 
 **Community support:**
-- [GitHub Discussions](https://github.com/YOUR_USERNAME/sde-team/discussions)
+- [GitHub Discussions](https://github.com/coderdigvijay/Elite_SDE_Team/discussions)
 - [Discord Community](https://discord.gg/YOUR_INVITE)
 - Twitter: [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE) with #EliteSDETeam
 
@@ -959,7 +959,7 @@ find .claude/codebase-map/*/flows/ -mtime +90 -delete
 - [Troubleshooting](troubleshooting.md)
 
 **Found a bug?**
-- [Open an issue](https://github.com/YOUR_USERNAME/sde-team/issues/new)
+- [Open an issue](https://github.com/coderdigvijay/Elite_SDE_Team/issues/new)
 
 **Want to contribute?**
 - [See CONTRIBUTING.md](../CONTRIBUTING.md)

@@ -2,7 +2,7 @@
 # Elite SDE Team - One Command Installer
 # The AI Engineering Team That Never Sleeps
 #
-# Usage: curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+# Usage: curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 
 set -e
 
@@ -103,7 +103,7 @@ echo ""
 # Download template files
 echo -e "${BLUE}📥 Downloading Elite SDE Team templates...${NC}"
 
-REPO_URL="https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main"
+REPO_URL="https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main"
 
 # Download CLAUDE.md (main config)
 echo "   → CLAUDE.md (main configuration)"
@@ -268,16 +268,16 @@ echo "   3. Or: \"Trace the execution flow for [feature]\""
 echo "   4. Make a code change and commit → Flow Architect auto-traces!"
 echo ""
 echo -e "${BLUE}📚 Documentation:${NC}"
-echo "   • Quick Start: https://github.com/YOUR_USERNAME/sde-team#quick-start"
-echo "   • How It Works: https://github.com/YOUR_USERNAME/sde-team/docs/how-it-works.md"
-echo "   • Agent Guide: https://github.com/YOUR_USERNAME/sde-team/docs/agents-guide.md"
+echo "   • Quick Start: https://github.com/coderdigvijay/Elite_SDE_Team#quick-start"
+echo "   • How It Works: https://github.com/coderdigvijay/Elite_SDE_Team/docs/how-it-works.md"
+echo "   • Agent Guide: https://github.com/coderdigvijay/Elite_SDE_Team/docs/agents-guide.md"
 echo ""
 echo -e "${BLUE}🆘 Need Help?${NC}"
-echo "   • Issues: https://github.com/YOUR_USERNAME/sde-team/issues"
-echo "   • Discussions: https://github.com/YOUR_USERNAME/sde-team/discussions"
+echo "   • Issues: https://github.com/coderdigvijay/Elite_SDE_Team/issues"
+echo "   • Discussions: https://github.com/coderdigvijay/Elite_SDE_Team/discussions"
 echo ""
 echo -e "${GREEN}⭐ If this helps you, please star the repo!${NC}"
-echo "   https://github.com/YOUR_USERNAME/sde-team"
+echo "   https://github.com/coderdigvijay/Elite_SDE_Team"
 echo ""
 echo -e "${BLUE}Happy coding with your Elite SDE Team! 🚀${NC}"
 echo ""

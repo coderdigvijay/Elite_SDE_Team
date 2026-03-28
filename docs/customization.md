@@ -1295,6 +1295,6 @@ Configure guards appropriately.
 
 ---
 
-**Questions?** [Open a discussion](https://github.com/YOUR_USERNAME/sde-team/discussions)
+**Questions?** [Open a discussion](https://github.com/coderdigvijay/Elite_SDE_Team/discussions)
 
 **Next:** [Troubleshooting Guide](troubleshooting.md)

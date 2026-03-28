@@ -149,7 +149,7 @@ git commit -m "Initial release: Elite SDE Team v1.0
 Ready for production use."
 
 # Add remote (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/sde-team.git
+git remote add origin https://github.com/coderdigvijay/Elite_SDE_Team.git
 
 # Push
 git branch -M main

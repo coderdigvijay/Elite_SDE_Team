@@ -51,7 +51,7 @@ That's it! No manual configuration needed.
 cd /path/to/your/project
 
 # Run installer
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 **What this does:**
@@ -191,7 +191,7 @@ ls -la .claude/
 **Fix:**
 ```bash
 # If missing, reinstall
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 ---
@@ -416,7 +416,7 @@ cd .claude/
 git pull  # If you cloned the repo
 
 # Or reinstall (preserves knowledge/)
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 Your knowledge base and codebase maps are preserved.

@@ -35,7 +35,7 @@ Example projects will be added here to showcase:
 cd /path/to/your/project
 
 # Install Elite SDE Team
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 
 # Start using
 # Open in Claude Code or Claude Desktop and start asking questions!

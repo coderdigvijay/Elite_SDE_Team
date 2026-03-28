@@ -49,7 +49,7 @@ sudo yum install curl
 
 **Alternative:** Manual installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/sde-team.git
+git clone https://github.com/coderdigvijay/Elite_SDE_Team.git
 cp -r sde-team/template/.claude your-project/
 ```
 
@@ -181,7 +181,7 @@ You ask questions but get generic responses, not specialist agent outputs.
 **If `.claude/` missing:**
 ```bash
 # Reinstall
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 **If `CLAUDE.md` in wrong location:**
@@ -194,7 +194,7 @@ mv CLAUDE.md .claude/CLAUDE.md
 ```bash
 # Re-download agents
 cd .claude/agents/
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/template/agents/master-agent.md -o master-agent.md
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/template/agents/master-agent.md -o master-agent.md
 # Repeat for other agents...
 ```
 
@@ -258,7 +258,7 @@ You commit code with obvious race conditions but Flow Architect doesn't report a
 
 **If agent file missing:**
 ```bash
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/template/agents/flow-architect.md -o .claude/agents/flow-architect.md
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/template/agents/flow-architect.md -o .claude/agents/flow-architect.md
 ```
 
 **If project detection broken:**
@@ -592,7 +592,7 @@ cp -r .claude/codebase-map/ ~/elite-sde-backup/codebase-map/
 rm -rf .claude/
 
 # 3. Reinstall
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 
 # 4. Restore knowledge (if backed up)
 cp -r ~/elite-sde-backup/knowledge/* .claude/knowledge/
@@ -628,7 +628,7 @@ If none of these solutions work:
    ```
 
 2. **Open GitHub issue:**
-   - Go to: https://github.com/YOUR_USERNAME/sde-team/issues/new
+   - Go to: https://github.com/coderdigvijay/Elite_SDE_Team/issues/new
    - Title: Brief description of issue
    - Attach `elite-sde-diagnostics.txt`
    - Describe: What you expected vs what happened
@@ -645,7 +645,7 @@ If none of these solutions work:
 
 ### Community Support
 
-- **GitHub Discussions:** https://github.com/YOUR_USERNAME/sde-team/discussions
+- **GitHub Discussions:** https://github.com/coderdigvijay/Elite_SDE_Team/discussions
 - **Discord:** [Join link]
 - **Twitter:** Tweet with #EliteSDETeam
 
@@ -667,4 +667,4 @@ If none of these solutions work:
 
 ---
 
-**Still stuck?** [Open a discussion](https://github.com/YOUR_USERNAME/sde-team/discussions) — the community is here to help!
+**Still stuck?** [Open a discussion](https://github.com/coderdigvijay/Elite_SDE_Team/discussions) — the community is here to help!

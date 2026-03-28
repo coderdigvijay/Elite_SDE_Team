@@ -38,7 +38,7 @@ Sees she needs:
 
 ```bash
 cd ~/projects/my-saas-app
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 Output:
@@ -383,15 +383,15 @@ Sarah forwards to contractor: "Here's everything you need."
 
 ```bash
 cd your-project
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 **30 seconds to install. Zero configuration. Elite-level code quality.**
 
 ---
 
-**Questions?** [Open a discussion](https://github.com/YOUR_USERNAME/sde-team/discussions)
+**Questions?** [Open a discussion](https://github.com/coderdigvijay/Elite_SDE_Team/discussions)
 
-**Found a bug?** [Open an issue](https://github.com/YOUR_USERNAME/sde-team/issues)
+**Found a bug?** [Open an issue](https://github.com/coderdigvijay/Elite_SDE_Team/issues)
 
 **Want to contribute?** [See CONTRIBUTING.md](CONTRIBUTING.md)

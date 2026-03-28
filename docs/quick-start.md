@@ -59,14 +59,14 @@ Agent teams are **disabled by default**. Enable them:
 cd /path/to/your/project
 
 # Run installer
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 ### Option B: Manual Install
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/sde-team.git
+git clone https://github.com/coderdigvijay/Elite_SDE_Team.git
 
 # Copy template to your project
 cp -r sde-team/template/.claude /path/to/your/project/
@@ -361,12 +361,12 @@ cat .claude/knowledge/YOUR_PROJECT/INDEX.md
 - [Customization](customization.md) — Make it your own
 
 **Join the community:**
-- [GitHub Discussions](https://github.com/YOUR_USERNAME/sde-team/discussions)
-- [Report Issues](https://github.com/YOUR_USERNAME/sde-team/issues)
+- [GitHub Discussions](https://github.com/coderdigvijay/Elite_SDE_Team/discussions)
+- [Report Issues](https://github.com/coderdigvijay/Elite_SDE_Team/issues)
 - [Twitter](https://twitter.com/YOUR_HANDLE) — Share your wins with #EliteSDETeam
 
 ---
 
-**Questions?** [Open an issue](https://github.com/YOUR_USERNAME/sde-team/issues) or [start a discussion](https://github.com/YOUR_USERNAME/sde-team/discussions).
+**Questions?** [Open an issue](https://github.com/coderdigvijay/Elite_SDE_Team/issues) or [start a discussion](https://github.com/coderdigvijay/Elite_SDE_Team/discussions).
 
 **Happy coding with your Elite SDE Team!** 🚀

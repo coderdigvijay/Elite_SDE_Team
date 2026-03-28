@@ -2,7 +2,7 @@
 
 **The AI Engineering Team That Never Sleeps**
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/sde-team?style=social)](https://github.com/YOUR_USERNAME/sde-team/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/coderdigvijay/Elite_SDE_Team?style=social)](https://github.com/coderdigvijay/Elite_SDE_Team/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -147,7 +147,7 @@ Then restart VS Code.
 cd /path/to/your/project
 
 # Run installer:
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 
 # Open in Claude Code or Claude Desktop
 # Agents activate automatically ✅
@@ -475,14 +475,14 @@ cd ~/projects/social-network
 ### One-Command Install
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/sde-team/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/coderdigvijay/Elite_SDE_Team/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/sde-team.git
+git clone https://github.com/coderdigvijay/Elite_SDE_Team.git
 
 # Copy to your project
 cp -r sde-team/template/.claude your-project/
@@ -537,7 +537,7 @@ See [LICENSE](LICENSE) for details.
 
 ## 🔗 Links
 
-- 📦 [GitHub](https://github.com/YOUR_USERNAME/sde-team)
+- 📦 [GitHub](https://github.com/coderdigvijay/Elite_SDE_Team)
 - 🐦 [Twitter/X](https://twitter.com/YOUR_HANDLE)
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 - 📝 [Blog](https://YOUR_BLOG)
@@ -548,7 +548,7 @@ See [LICENSE](LICENSE) for details.
 
 If Elite SDE Team helps you, please star the repo!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/sde-team&type=Date)](https://star-history.com/#YOUR_USERNAME/sde-team&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=coderdigvijay/Elite_SDE_Team&type=Date)](https://star-history.com/#coderdigvijay/Elite_SDE_Team&Date)
 
 ---
 
@@ -561,7 +561,7 @@ If Elite SDE Team helps you, please star the repo!
 - [ ] Custom agent marketplace
 - [ ] Performance analytics dashboard
 
-**Want to help build these?** [Join the discussion →](https://github.com/YOUR_USERNAME/sde-team/discussions)
+**Want to help build these?** [Join the discussion →](https://github.com/coderdigvijay/Elite_SDE_Team/discussions)
 
 ---
 
@@ -569,7 +569,7 @@ If Elite SDE Team helps you, please star the repo!
 
 **Built with ❤️ by developers, for developers**
 
-**[Install Now](https://github.com/YOUR_USERNAME/sde-team#installation) · [Documentation](docs/) · [Report Bug](https://github.com/YOUR_USERNAME/sde-team/issues) · [Request Feature](https://github.com/YOUR_USERNAME/sde-team/issues)**
+**[Install Now](https://github.com/coderdigvijay/Elite_SDE_Team#installation) · [Documentation](docs/) · [Report Bug](https://github.com/coderdigvijay/Elite_SDE_Team/issues) · [Request Feature](https://github.com/coderdigvijay/Elite_SDE_Team/issues)**
 
 </div>
 
@@ -588,7 +588,7 @@ We'll showcase the best stories here. 🏆
 **Made with Elite SDE Team? Add this badge to your README:**
 
 ```markdown
-[![Built with Elite SDE Team](https://img.shields.io/badge/built%20with-Elite%20SDE%20Team-blue)](https://github.com/YOUR_USERNAME/sde-team)
+[![Built with Elite SDE Team](https://img.shields.io/badge/built%20with-Elite%20SDE%20Team-blue)](https://github.com/coderdigvijay/Elite_SDE_Team)
 ```
 
-[![Built with Elite SDE Team](https://img.shields.io/badge/built%20with-Elite%20SDE%20Team-blue)](https://github.com/YOUR_USERNAME/sde-team)
+[![Built with Elite SDE Team](https://img.shields.io/badge/built%20with-Elite%20SDE%20Team-blue)](https://github.com/coderdigvijay/Elite_SDE_Team)

@@ -7,10 +7,10 @@ First off, **thank you** for considering contributing! Elite SDE Team is built b
 ## 🎯 Ways to Contribute
 
 ### 1. **Report Bugs** 🐛
-Found a bug? [Open an issue](https://github.com/YOUR_USERNAME/sde-team/issues/new?template=bug_report.md)
+Found a bug? [Open an issue](https://github.com/coderdigvijay/Elite_SDE_Team/issues/new?template=bug_report.md)
 
 ### 2. **Suggest Features** 💡
-Have an idea? [Open a feature request](https://github.com/YOUR_USERNAME/sde-team/issues/new?template=feature_request.md)
+Have an idea? [Open a feature request](https://github.com/coderdigvijay/Elite_SDE_Team/issues/new?template=feature_request.md)
 
 ### 3. **Improve Documentation** 📖
 Fix typos, add examples, clarify explanations
@@ -29,7 +29,7 @@ Tweet about it with **#EliteSDETeam** — we'll showcase the best stories!
 
 ```bash
 # Fork the repo on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/sde-team.git
+git clone https://github.com/coderdigvijay/Elite_SDE_Team.git
 cd sde-team
 ```
 
@@ -270,7 +270,7 @@ When opening issues, use these labels:
 
 ### Discussions
 
-For open-ended conversations, use [GitHub Discussions](https://github.com/YOUR_USERNAME/sde-team/discussions)
+For open-ended conversations, use [GitHub Discussions](https://github.com/coderdigvijay/Elite_SDE_Team/discussions)
 
 **Good for:**
 - Feature ideas (before opening issue)
@@ -280,7 +280,7 @@ For open-ended conversations, use [GitHub Discussions](https://github.com/YOUR_U
 
 ### Issues
 
-For specific, actionable items, use [GitHub Issues](https://github.com/YOUR_USERNAME/sde-team/issues)
+For specific, actionable items, use [GitHub Issues](https://github.com/coderdigvijay/Elite_SDE_Team/issues)
 
 **Good for:**
 - Bug reports
@@ -289,7 +289,7 @@ For specific, actionable items, use [GitHub Issues](https://github.com/YOUR_USER
 
 ### Pull Requests
 
-For actual code/doc changes, use [Pull Requests](https://github.com/YOUR_USERNAME/sde-team/pulls)
+For actual code/doc changes, use [Pull Requests](https://github.com/coderdigvijay/Elite_SDE_Team/pulls)
 
 ---
 
@@ -327,4 +327,4 @@ Violations can be reported to [your-email@example.com]. Serious violations may r
 
 ---
 
-**Questions about contributing?** [Open a discussion](https://github.com/YOUR_USERNAME/sde-team/discussions) — we're here to help!
+**Questions about contributing?** [Open a discussion](https://github.com/coderdigvijay/Elite_SDE_Team/discussions) — we're here to help!
